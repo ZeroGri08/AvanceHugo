@@ -1,0 +1,8 @@
+/home/zero/Documents/delasalle/aplicacion/Dominio/bin/Debug/netstandard2.0/Dominio.deps.json
+/home/zero/Documents/delasalle/aplicacion/Dominio/bin/Debug/netstandard2.0/Dominio.dll
+/home/zero/Documents/delasalle/aplicacion/Dominio/bin/Debug/netstandard2.0/Dominio.pdb
+/home/zero/Documents/delasalle/aplicacion/Dominio/obj/Debug/netstandard2.0/Dominio.csprojAssemblyReference.cache
+/home/zero/Documents/delasalle/aplicacion/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfoInputs.cache
+/home/zero/Documents/delasalle/aplicacion/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfo.cs
+/home/zero/Documents/delasalle/aplicacion/Dominio/obj/Debug/netstandard2.0/Dominio.dll
+/home/zero/Documents/delasalle/aplicacion/Dominio/obj/Debug/netstandard2.0/Dominio.pdb

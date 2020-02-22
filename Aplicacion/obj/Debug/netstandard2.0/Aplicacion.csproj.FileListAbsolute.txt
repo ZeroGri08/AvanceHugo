@@ -1,0 +1,13 @@
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.deps.json
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.dll
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.pdb
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/bin/Debug/netstandard2.0/Dominio.dll
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/bin/Debug/netstandard2.0/Persistencia.dll
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/bin/Debug/netstandard2.0/Dominio.pdb
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/bin/Debug/netstandard2.0/Persistencia.pdb
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csprojAssemblyReference.cache
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.AssemblyInfoInputs.cache
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.AssemblyInfo.cs
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csproj.CopyComplete
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.dll
+/home/zero/Documents/delasalle/aplicacion/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.pdb
